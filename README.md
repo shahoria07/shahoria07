@@ -1,5 +1,5 @@
 
-![I am Shahoria Tanjid (Jihad)]((https://github.com/harun181/harun181/blob/main/code.png))
+![I am Shahoria Tanjid (Jihad)](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Shahoria Tanjid (Jihad) </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner | Science Teacher |</h3>
