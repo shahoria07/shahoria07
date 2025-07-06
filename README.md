@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Shahoria Tanjid (Jihad) </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner | Science Teacher |</h3>
-<h4 align="center">Founder & CEO STJ IT COMPANY</h4>
+<h4 align="center">Founder & CEO STZ IT COMPANY</h4>
 
 <div align="center">
 
